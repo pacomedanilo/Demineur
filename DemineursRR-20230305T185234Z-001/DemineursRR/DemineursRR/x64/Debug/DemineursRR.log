@@ -1,0 +1,5 @@
+﻿  DemineursRR.c
+C:\Users\rsalles\source\repos\DemineursRR\DemineursRR\DemineursRR.c(52,18): warning C4101: 'countChar' : variable locale non référencée
+C:\Users\rsalles\source\repos\DemineursRR\DemineursRR\DemineursRR.c(123,11): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\rsalles\source\repos\DemineursRR\DemineursRR\DemineursRR.c(145,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rsalles\source\repos\DemineursRR\DemineursRR\DemineursRR.c(147,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
